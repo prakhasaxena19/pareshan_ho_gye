@@ -1,0 +1,8 @@
+pl\piomin\microservices\customer\api\Api.class
+pl\piomin\microservices\customer\Application.class
+pl\piomin\microservices\customer\intercomm\AccountClient.class
+pl\piomin\microservices\customer\model\CustomerType.class
+pl\piomin\microservices\customer\model\Account.class
+pl\piomin\microservices\customer\CustomerConfiguration.class
+pl\piomin\microservices\customer\exceptions\CustomerNotFoundException.class
+pl\piomin\microservices\customer\model\Customer.class
