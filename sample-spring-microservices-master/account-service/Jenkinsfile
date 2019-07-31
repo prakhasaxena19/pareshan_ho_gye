@@ -4,7 +4,11 @@ node {
         }
 
         stage('Build') {
-           build 'Pipe_2'
+               tools {
+  maven 'maven'
+}
+               sh 'mvn -v'
+sh 'maven -v'
 
              }
 
